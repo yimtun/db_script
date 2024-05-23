@@ -1,0 +1,16 @@
+monitor:
+  user: www
+  password: xxx
+  mysqlAddr:
+    - x.x.x.x:3306
+    - y.y.y.y:3306
+  notify:
+    smtpServer: ""
+    smtpPort: ""
+    sub: "test subject"
+    sender: "ss@ss.com"
+    toUser:
+      - "zz@zz.com"
+    ccUsers:
+      xx@xx.com: "xx"
+      uu@uu.com: "uu"

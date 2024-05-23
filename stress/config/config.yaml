@@ -1,0 +1,5 @@
+srress:
+  user: yy
+  password: xx
+  mysql: x.x.x.x:3306
+  dbname: testdb
